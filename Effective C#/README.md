@@ -1,6 +1,18 @@
-## Effective C# U3D高效C#技法训练  
+# Effective C# U3D高效C#技法训练  
 
-### 目录  
+## 目录  
+### 指针  
+>* [C#(含Unity)unsafe指针快速反射第一篇（字段篇 ）](https://zhuanlan.zhihu.com/p/547327113)  
+>* [C#(含Unity)unsafe指针快速反射第二篇（属性篇 ）](https://zhuanlan.zhihu.com/p/552294970)  
+>* [IntPtr 结构](https://learn.microsoft.com/zh-cn/dotnet/api/System.IntPtr?view=net-5.0)  
+>* [Marshal 类](https://learn.microsoft.com/zh-cn/dotnet/api/system.runtime.interopservices.marshal?view=net-5.0)  
+
+### unsafe  
+>* [不安全代码、指针类型和函数指针](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/unsafe-code)  
+>* [unsafe（C# 参考）](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/unsafe)  
+
+### 其他  
+>* [referencesource](https://github.com/microsoft/referencesource)  
 >* [Learning Hard C# 博客原文](https://www.kancloud.cn/wizardforcel/learning-hard-csharp/111492)  
 >* [Unity3D中使用委托和事件](https://github.com/XINCGer/Unity3DTraining/tree/master/Effective%20C%23/Delegate_EventTraining)   
 >* [浅谈 .NET 中的对象引用、非托管指针和托管指针](https://www.cnblogs.com/blurhkh/p/10357576.html)  
@@ -16,7 +28,6 @@
 >* [从零开始分析C#所有常用集合类的设计（源码向）](https://www.lfzxb.top/re0-c-generic-collections-analyze-with-source-code/)  
 >* [聊聊“装箱”在CLR内部的实现](https://www.cnblogs.com/murongxiaopifu/p/12295848.html)  
 >* [【5min+】 这些C#的运算符您都认识吗？](https://www.cnblogs.com/uoyo/p/12307959.html)  
->* [C#中的9个“黑魔法”与“骚操作”](https://www.cnblogs.com/sdflysha/p/20200331-black-magic-in-csharp.html)  
 >* [你所不知道的 C# 中的细节](https://www.cnblogs.com/hez2010/p/12606419.html)  
 >* [内存迟迟下不去，可能你就差一个GC.Collect](https://www.cnblogs.com/huangxincheng/p/12839160.html)  
 >* [List的扩容机制，你真的明白吗？](https://www.cnblogs.com/huangxincheng/p/12954569.html)  
@@ -41,3 +52,19 @@
 >* [c#动态设置attribute](https://www.cnblogs.com/jacle169/archive/2013/04/20/3032113.html)  
 >* [在C#序列化中保存字典](http://ask.sov5.cn/q/7hBfSdNfiP)  
 >* [C#中字符串优化String.Intern、IsInterned详解](https://www.jb51.net/article/129541.htm)  
+>* [await,async 我要把它翻个底朝天，这回你总该明白了吧](https://blog.csdn.net/huangxinchen520/article/details/108214146)  
+>* [异步编程模型](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/concepts/async/task-asynchronous-programming-model)  
+>* [C#中的异步任务类型记录](https://www.jianshu.com/p/77bcfabc3f9f)  
+>* [Async Task Types in C#](https://github.com/dotnet/roslyn/blob/main/docs/features/task-types.md)  
+>* [C#中的变量存储](https://www.jianshu.com/p/ceb5e9fd607e)  
+>* [深入理解.NET中的并行编程(TPL)——多线程、异步、任务和并行计算](https://zhuanlan.zhihu.com/p/242142417)  
+>* [任务并行库 (TPL)](https://docs.microsoft.com/zh-cn/dotnet/standard/parallel-programming/task-parallel-library-tpl?redirectedfrom=MSDN)  
+>* [基于无锁的C#并发队列实现](https://www.cnblogs.com/akxmhd/p/15305868.html)  
+>* [AsyncLock: an async/await-friendly locking library for C# and .NET](https://neosmart.net/blog/2017/asynclock-an-asyncawait-friendly-locking-library-for-c-and-net/) 
+>* [.NET 零开销抽象指南](https://zhuanlan.zhihu.com/p/579403949)  
+
+### Roslyn  
+>* [roslyn](https://github.com/dotnet/roslyn)  
+>* [Roslynator](https://github.com/JosefPihrt/Roslynator)  
+>* [.NET Compiler Platform SDK](https://docs.microsoft.com/zh-cn/dotnet/csharp/roslyn-sdk/)  
+>* [从零开始学习 dotnet 编译过程和 Roslyn 源码分析](https://www.jianshu.com/p/5b3c23cb3cf2)  

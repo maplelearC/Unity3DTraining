@@ -3,6 +3,7 @@
 ### 持续集成与打包构建  
 * [Jenkins 介绍](https://www.w3cschool.cn/jenkins/jenkins-5h3228n2.html)  
 * [Jenkins官方文档](https://jenkins.io/doc/)  
+* [Jenkins分布式与并行](https://www.cnblogs.com/rxysg/p/15681774.html)  
 * [Unity3D研究院之Jenkins的使用](http://www.xuanyusong.com/archives/3349)  
 * [Unity3D使用Jenkins进行自动打包](https://www.aliyun.com/jiaocheng/794551.html)  
 * [Unity3D研究院之脚本批量打包渠道包研究](http://www.xuanyusong.com/archives/2418?utm_source=tuicool&utm_medium=referral)  
@@ -51,6 +52,38 @@
 * [Unity and IPv6 Support](https://blog.unity.com/technology/unity-and-ipv6-support)  
 * [ios上如何将ipv4转化成ipv6](https://www.jianshu.com/p/ddc865b6be9b)  
 * [unity-ios-ipv6-ready](https://github.com/mopsicus/unity-ios-ipv6-ready)  
+* [ipv6地址后怎么加端口](https://www.west.cn/docs/63945.html)  
+* [谈一谈Unity 的 Scriptable Build Pipeline](https://zhuanlan.zhihu.com/p/366780685)  
+* [SBP官方文档](https://docs.unity3d.com/Packages/com.unity.scriptablebuildpipeline@1.19/manual/index.html)  
+* [Unity社区精华帖 | SBP - Scriptable Build Pipeline](https://mp.weixin.qq.com/s/sZIq6FfPz9JrcAhTbXX3iQ)  
+* [利用jenkins的 Active choises parameter插件进行动态参数选择](https://www.cnblogs.com/netsa/p/16086866.html)  
+* [Jenkins参数化构建犀利插件Active-Choices-Plugin](https://wiki.eryajf.net/pages/2075.html#_1-%E5%89%8D%E8%A8%80%E3%80%82)  
+* [Node and Label parameter](https://plugins.jenkins.io/nodelabelparameter/)  
+* [iOS开发-Xcode Debug、Release、Archive、Profile、Analyze概念解释](https://www.cnblogs.com/lxlx1798/articles/12923039.html)  
+* [Unity Cache Server了解和常见问题](https://codeantenna.com/a/lxoMLpvIFY)  
+* [Unity realtime log in command line (batchmode)](https://github.com/mr-kelly/unity_realtime_log)  
+* [Unity打包前进行编译检查](https://qiita.com/k7a/items/ef5753e736d288fecc89)  
+* [[Unity 3d] 编辑器程序集编译API - 笔记](https://www.jianshu.com/p/7ffca90fa853)  
+* [app开发者需要更新此app及Xcode13遇坑](https://www.jianshu.com/p/aa6ee74a2a05)  
+* [Unity 输出日志到命令行](https://networm.me/2019/05/19/unity-logfile-stdout/)  
+* [Executing groovy scripts on Jenkins' slaves](https://stackoverflow.com/questions/37144549/executing-groovy-scripts-on-jenkins-slaves)  
+* [RejectedAccessException: Scripts not permitted to use method jenkins.model.Jenkins getCloud](https://blog.csdn.net/chengguo570155/article/details/100908525)  
+* [Python发送企业微信消息](https://www.cnblogs.com/blog-for-me/p/14743237.html)  
+* [企业微信Jenkins构建通知插件](https://github.com/jenkinsci/qy-wechat-notification-plugin)  
+* [群机器人配置说明](https://developer.work.weixin.qq.com/document/path/91770)  
+* [Apple_mobile_device_types](https://gist.github.com/adamawolf/3048717)  
+* [Jenkins如何控制多个Job进行依赖（不允许同时出现资源争抢）](https://blog.csdn.net/Python_BT/article/details/123789858)  
+* [入域的Windows访问未入域的Samba服务](https://wenku.baidu.com/view/b2affeff83eb6294dd88d0d233d4b14e85243ebb.html)  
+* [Windows、Mac命令行连接SMB(带特殊字符、处理域用户、反斜杠)](https://www.jianshu.com/p/4c9535226329)  
+* [Failed to get socket connection from UnityShaderCompiler.exe shader compiler](https://gamedev.stackexchange.com/questions/150581/failed-to-get-socket-connection-from-unityshadercompiler-exe-shader-compiler-c)  
+* [Jenkins自动化部署报Failed to get socket connection from](https://blog.csdn.net/yuxikuo_1/article/details/86751113)  
+* [cmd命令执行结果赋值给变量](https://blog.csdn.net/yzpbright/article/details/122919406)  
+* [Windows wmic命令之process进程管理](https://blog.csdn.net/yetugeng/article/details/103615205)  
+* [window10设置开机后自启动.bat文件](https://www.cnblogs.com/longronglang/p/16265587.html)  
+* [通过applescript自动连接smb服务器](https://qastack.cn/apple/256716/why-mac-smb-connect-fails-with-login-from-cli-but-works-from-finder-and-with-guest-account)  
+* [在Mac的terminal下连接 SMB 共享的三种方法](https://www.jianshu.com/p/1ab7849a4e0e)  
+* [解决UnicodeEncodeError: ‘ascii’ codec can’t encode characters in position](https://www.cnblogs.com/sundahua/p/7248209.html)  
+* [Jenkins批量删除历史构建记录](https://blog.csdn.net/weixin_44024740/article/details/122698707)  
 
 #### iOS14无法安装企业应用  
 * [关于iOS系统升级到iOS14企业APP出现无法安装解决方案](https://www.freesion.com/article/75671343499/)  
@@ -64,6 +97,7 @@
 * [iOS App 上架流程（新快捷版）（Xcode8.0以后）](https://www.jianshu.com/p/873d32a559a9)  
 * [TestFlight用法 包教包会（内部测试篇）](https://www.jianshu.com/p/4be185e4069c)  
 * [TestFlight使用之外部测试 包教包会](https://www.jianshu.com/p/c6411fbe5781)  
+* [Unity提审AppStore踏坑指南](https://shadowkong.com/archives/2173)  
 
 ### il2cpp  
 * [IL2CPP Overview](https://docs.unity3d.com/Manual/IL2CPP.html)  
@@ -71,8 +105,36 @@
 * [Unity将来时：IL2CPP是什么？](https://zhuanlan.zhihu.com/p/19972689)  
 * [简单了解Mono和IL2CPP](https://www.dazhuanlan.com/hj1234/topics/1288820)  
 * [用Unity制作游戏，你需要深入了解一下IL2CPP](http://www.gameres.com/339671.html)  
+* [关于优化的二三事：Unity 2020 LTS中的托管代码剥离](https://mp.weixin.qq.com/s/YlWLVJaHmZUCdXDdFwYz-A)  
+* [How to add compiler or linker flags for il2cpp invocation](https://answers.unity.com/questions/1610105/how-to-add-compiler-or-linker-flags-for-il2cpp-inv.html)  
+* [详解三大编译器：gcc、llvm 和 clang](https://zhuanlan.zhihu.com/p/357803433)  
 
 ### iOS重签名  
 * [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer)  
 * [iOS包重签名技术知识](https://juejin.cn/post/6844904050228461575)  
 * [iOS软件包ipa重签名详解](https://www.jianshu.com/p/609109d41628)  
+
+### iOS 应用上传  
+* [Xcode11 使用终端上传ipa](https://www.jianshu.com/p/56d57eef81de)  
+* [Xcode11 之后上传 ipa文件到APP store](https://www.jianshu.com/p/767ab0f5c8e9)  
+* [上传工具](https://help.apple.com/app-store-connect/#/devb1c185036)  
+
+### ssh客户端  
+* [tabby](https://github.com/Eugeny/tabby)  
+* [MobaXterm](https://mobaxterm.mobatek.net/)  
+
+### FastBuild  
+* [fastbuild Github](https://github.com/fastbuild/fastbuild)  
+* [FastBuild](https://www.fastbuild.org/docs/home.html)  
+* [使用FASTBuild加速Unreal Engine编译](https://blog.csdn.net/cjw_soledad/article/details/117362397)  
+* [fastbuild support shader build](https://github.com/VicentChen/fastbuild-ue4.26.2/commit/f99dcc9ce698b92caa788016d72c1c29e18df751)  
+* [fastbuild compress compiled object](https://github.com/VicentChen/fastbuild-ue4.26.2/commit/280d92e19fce3af4ac86211f73aac317936f7afa)  
+* [保姆式教你使用FASTBuild对UE4进行联机编译](https://zhuanlan.zhihu.com/p/158400394)  
+* [Utility to build Visual Studio solutions and projects with FASTBuild, supports VS2015/2017/2019](https://github.com/LendyZhang/msfastbuild)  
+
+### apple-silicon
+* [apple-silicon](https://developer.apple.com/documentation/apple-silicon)  
+
+### UE  
+* [Build Unreal Engine & games with Jenkins on GKE/GCE](https://github.com/falldamagestudio/UE-Jenkins-BuildSystem)  
+

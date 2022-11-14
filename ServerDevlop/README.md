@@ -25,10 +25,8 @@
 >* [Xcode发布测试版本,直接通过Safari在线安装ipa](https://blog.csdn.net/csdwd/article/details/52297786)  
 >* [手把手叫你 制作一个不需要任何工具 从网页上安装ipa包的办法](https://blog.csdn.net/kingmax54212008/article/details/56278134)  
 >* [mac 安装nginx并配置SSL实现Https访问](https://www.jianshu.com/p/fc1e81efc867)  
->* [『CDN』让你的网站访问起来更加柔顺丝滑](https://www.cnblogs.com/fengzheng/p/14071940.html)  
->* [jforgame，一个用java编写的轻量级高性能手游服务端框架](https://github.com/kingston-csj/jforgame)  
->* [基于.Netcore的开发效率高，性能强，跨平台，持久化层透明，支持不停服热更新的游戏服务器](https://github.com/leeveel/GeekServer)  
->* [jforgame是一个一站式游戏服务器开发框架](https://github.com/kingston-csj/jforgame)  
+>* [『CDN』让你的网站访问起来更加柔顺丝滑](https://www.cnblogs.com/fengzheng/p/14071940.html)   
+>* [30天自制C++服务器，包含教程和源代码](https://github.com/yuesong-feng/30dayMakeCppServer)  
 
 #### 游戏后端服务器框架  
 >* [skynet 简介](https://blog.csdn.net/o8413897/article/details/79044437)  
@@ -40,6 +38,20 @@
 >* [经典游戏服务器端架构概述](https://blog.csdn.net/xchysl/article/details/79477988)  
 >* [skynet游戏服务器框架分享](https://www.cnblogs.com/left69/p/14241929.html)  
 >* [Skynet 日志文件服务](https://github.com/Veinin/skynet-logger)  
+>* [skynet通用模块，各种轮子，不解释快上车](https://github.com/yiyajunjun/bewater)  
+>* [skynet脚手架](https://github.com/zhandouxiaojiji/skynet-creator)  
+>* [jforgame，一个用java编写的轻量级高性能手游服务端框架](https://github.com/kingston-csj/jforgame)  
+>* [基于.Netcore的开发效率高，性能强，跨平台，持久化层透明，支持不停服热更新的游戏服务器](https://github.com/leeveel/GeekServer)  
+>* [jforgame是一个一站式游戏服务器开发框架](https://github.com/kingston-csj/jforgame)  
+>* [SparkServer](https://github.com/Manistein/SparkServer) 
+>* [skynet 管理后台](https://github.com/hanxi/skynet-admin)  
+>* [一个基于lua的分布式游戏服务器引擎框架](https://github.com/xiyoo0812/quanta)  
+>* [基于c++ & lua 实现的分布式游戏服务器框架](https://github.com/hero1s/hive)  
+>* [C++高性能分布式服务器框架](https://github.com/sylar-yin/sylar)  
+>* [A cross-platform,lightweight,scalable game server framework written in C++, and support Lua Script](https://github.com/hero1s/hive)  
+>* [MMO game server: Unity includes a 10,000 Player scene](https://github.com/surparallel/luacluster)  
+>* [FireNET-Deprecated master server for creating MMO games based on CRYENGINE](https://github.com/afrostalin/FireNET)  
+>* [Fully-functional open-source server implementation for Diablo 3](https://github.com/blizzless/blizzless-diiis)  
 
 #### Redis   
 >* [一文回顾Redis五大对象(数据类型)](https://www.cnblogs.com/hunternet/p/12742390.html)  
@@ -65,6 +77,12 @@
 >* [Nginx实战部署常用功能演示(超详细版)，绝对给力](https://www.cnblogs.com/zoe-zyq/p/14843709.html)  
 >* [一款轻量级、高性能、功能强大的内网穿透代理服务器](https://github.com/ehang-io/nps)  
 >* [reverse-proxy](https://github.com/microsoft/reverse-proxy)  
+>* [Nginx 基础入门](https://www.cnblogs.com/48xz/p/15781821.html)  
+>* [Fast, multi-platform web server with automatic HTTPS](https://github.com/caddyserver/caddy)  
+>* [A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet](https://github.com/fatedier/frp)  
+>* [Nginx 文件服务器页面美化，按时间倒叙](https://www.jianshu.com/p/220776cb72df)  
+>* [nginx之日志路径配置小知识点](https://www.cnblogs.com/ybinshi/p/15701408.html)  
+>* [nginx-1.19.10 源码阅读，分析关键组件与核心运转流程， 并使用图例进行描述](https://github.com/SmartKeyerror/reading-source-code-of-nginx-1.19.10)  
 
 #### Web开发  
 >* [单点登录的三种实现方式](https://www.cnblogs.com/yonghengzh/p/13712729.html)  
@@ -97,6 +115,22 @@
 >* [基于Spring Boot的在线考试系统](https://github.com/lsgwr/spring-boot-online-exam)  
 >* [cool-admin(midway版)一个很酷的后台权限管理框架](https://github.com/cool-team-official/cool-admin-midway)  
 >* [WebPhotoshop精简版](https://github.com/leanfish2011/WebPhotoshop-Simple)  
+>* [🎥 Command line video player](https://github.com/mpv-player/mpv)  
+>* [windowjs](https://github.com/windowjs/windowjs)  
+>* [漂亮清新的中后台管理模版](https://github.com/honghuangdc/soybean-admin)  
+>* [monaco-editor](https://github.com/microsoft/monaco-editor)  
+>* [NosCore](https://github.com/NosCoreIO/NosCore)  
+>* [Web Development for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)  
+>* [铃铛游戏(棋牌)管理后台](https://github.com/huangtao/gameld-admin)  
+>* [HC小区物业管理系统](https://github.com/java110/MicroCommunity)  
+>* [基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用](https://github.com/pipipi-pikachu/PPTist)  
+>* [A Progressive Web App for local file sharing](https://github.com/RobinLinus/snapdrop)  
+>* [Vue3+Vite2.6+TypeScript+ant-design-vue+egg.js+mysql构建，提供基础的框架，快速搭建企业级中后台产品，响应式管理后台系统](https://github.com/hangjob/vue-bag-admin)  
+>* [AI-Powered Photos App for the Decentralized Web 🌈💎✨](https://github.com/photoprism/photoprism)  
+>* [后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板](https://github.com/zhongshaofa/layuimini)  
+>* [开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台](https://github.com/openspug/spug)  
+>* [WatchDog is a Realtime Message, Event, HTTP (Request & Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs.](https://github.com/IzyPro/WatchDog)  
+>* [higress-Next-generation Cloud Native Gateway](https://github.com/alibaba/higress)  
 
 #### Linux  
 >* [Linux的打包和压缩详解](https://www.cnblogs.com/TheGCC/p/14228439.html)  
@@ -106,9 +140,14 @@
 >* [Jellyfin-The Free Software Media System](https://github.com/jellyfin/jellyfin)  
 >* [SRS OuXuli，简单高效的实时视频服务器](https://github.com/ossrs/srs)  
 >* [音视频流媒体权威资料整理](https://github.com/0voice/audio_video_streaming)  
+>* [SRS是一个简单、高效、实时的视频服务器，支持RTMP、WebRTC、HLS、HTTP-FLV和SRT](https://github.com/ossrs/srs)  
+>* [RtspClientSharp](https://github.com/BogdanovKirill/RtspClientSharp)  
+>* [一个基于hls协议的视频加密Demo](https://github.com/hauk0101/video-hls-encrypt)  
 
 #### 应用分发  
 >* [ipa-server](https://github.com/iineva/ipa-server/blob/main/README_zh.md)  
+>* [开放源码的无App推送服务，iOS14+扫码即用。🚧 快应用开发中](https://github.com/easychen/pushdeer)  
+>* [应用内网发布平台| 类似蒲公英|fir|iOS OTA ](https://github.com/yizhaorong/intranet_app_manager)  
 
 #### MongoDB知识点  
 >* [MongoDB知识点](./MongoDB/README.md)  
@@ -123,12 +162,16 @@
 
 #### 内网穿透  
 >* [FastTunnel - 打造人人都能搭建的内网穿透工具](https://www.cnblogs.com/springhgui/p/15005329.html)  
+>* [一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密](https://github.com/editso/fuso)  
 
 #### CDN与网盘  
 >* [自制网盘](https://mp.weixin.qq.com/s/7QOlqykLyzGKvE4gQDG0Xg)  
 >* [高性能利器：CDN我建议你好好学一下！](https://www.cnblogs.com/jaycekon/p/15213441.html)  
 >* [Nextcloud server](https://github.com/nextcloud/server)  
 >* [📂 Web File Browser](https://github.com/filebrowser/filebrowser)  
+>* [Cyberduck](https://github.com/iterate-ch/cyberduck)  
+>* [file-chunk是一款针对大文件，超大文件上传的全方位解决方案](https://github.com/yangrds/file-chunk)  
+>* [Curve 是网易主导自研的现代化存储系统](https://github.com/opencurve/curve/)  
 
 #### Samba  
 >* [Mac连接远程Linux管理文件（samba）](https://www.jianshu.com/p/fe7fd0286c4e)  
@@ -139,6 +182,18 @@
 
 #### AI与机器人  
 >* [🌿 中文近义词：聊天机器人，智能问答工具包](https://github.com/chatopera/Synonyms)  
+>* [🤖 Create your Wechat Work Bot - 创建你的企业微信机器人](https://github.com/tenbot/tenbot)  
 
 #### 物联网  
 >* [CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system](https://github.com/IceWhaleTech/CasaOS)  
+>* [wumei-smart是一个简单易用的生活物联网平台](https://github.com/kerwincui/wumei-smart)  
+>* [An open Apple AirDrop implementation written in Python](https://github.com/seemoo-lab/opendrop)  
+
+#### Git
+>* [Self-hosted Git Server with Built-in CI/CD](https://github.com/theonedev/onedev)  
+
+#### ssh  
+>* [TinySSH is small server ](https://github.com/janmojzis/tinyssh)  
+
+#### 分布式  
+>* [《分布式系统模式》中文版](https://github.com/dreamhead/patterns-of-distributed-systems)  

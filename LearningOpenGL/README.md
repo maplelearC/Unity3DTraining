@@ -6,6 +6,7 @@
 * [Omnimatte: Associating Objects and Their Effects in Video](https://omnimatte.github.io/)  
 * [omnimatte](https://github.com/erikalu/omnimatte)  
 * [Unity官方图形学教程](https://unity3d.com/cn/learn/tutorials/s/graphics)  
+* [TA笔记](https://www.yuque.com/sugelameiyoudi-jadcc/okgm7e)  
 * [Unity 灯光与渲染相关](./LightAndRendering/README.md)  
 * [深入GPU硬件架构及运行机制](https://www.cnblogs.com/timlly/p/11471507.html)  
 * [在VS2013下如何配置DirectX SDK的开发环境](https://jingyan.baidu.com/article/b7001fe199dbf00e7382dd75.html)  
@@ -68,6 +69,19 @@
 * [图形学3D渲染管线学习](https://www.cnblogs.com/littleperilla/p/15667021.html)  
 * [图形学之Unity渲染管线流程](https://www.cnblogs.com/littleperilla/p/15680654.html)  
 * [(Unity) Cross-fading LOD shader example](https://github.com/keijiro/CrossFadingLod)  
+* [【源码】基于《原神》模型,Unity的StandardShader分析](https://mp.weixin.qq.com/s/Z6pc6gNMCAT8ukicWtrXQg)  
+* [[源码]菜鸡都能学会的Unity卡通水渲染](https://mp.weixin.qq.com/s/4DU1N2NATPO24BpOt6Ggwg)  
+* [全局光照引擎：烘焙器构件与反射构件](https://mp.weixin.qq.com/s/_WB_3ILs0rOP8Snpvk90tA)  
+* [Unity: 大世界GI方案](https://mp.weixin.qq.com/s/HDjr59jkS2ASO1S6THgFhg)  
+* [Minimal Compute Shader Examples](https://github.com/cinight/MinimalCompute)  
+* [[源码]详解Cubemap、IBL与球谐光照](https://mp.weixin.qq.com/s/60-c4eXnW53RUWBFewPfNQ)  
+* [Untiy Chinese Painting Rendering](https://github.com/boringsky/Unity_ChinesePainting)  
+* [🐙 🐙图形学论文实现](https://github.com/AngelMonica126/GraphicAlgorithm)  
+* [Tooll 3 is an open source software to create realtime motion graphics](https://github.com/still-scene/t3)  
+* [【博物纳新】网格切割算法](https://mp.weixin.qq.com/s/hS-tlEdy5dsUpObrURxhiA)  
+* [游戏资源中常见的贴图类型](https://zhuanlan.zhihu.com/p/260973533)  
+* [关于静态批处理/动态批处理/GPU Instancing /SRP Batcher的详细剖析](https://zhuanlan.zhihu.com/p/98642798)  
+* [Unity3D-CG-programming](https://github.com/przemyslawzaworski/Unity3D-CG-programming)  
 
 ### SRP  
 * [【渲染篇】新时代的SRP Batcher 和尴尬的Dynamic Batching](https://zhuanlan.zhihu.com/p/183931199)  
@@ -82,6 +96,18 @@
 * [Unity URP/SRP 渲染管线浅入深出【匠】](https://mp.weixin.qq.com/s/i4smZfIkbGfFxTKvlz4eZQ)  
 * [【Unity】SRP底层渲染流程及原理](https://mp.weixin.qq.com/s/EAlFztuMZ2xwyzK02NyfSg)  
 * [狐狸菌的urp教程](https://fungusfox.gitee.io/tags/urp/)  
+* [Customized High-Quality Rendering Pipeline in Unity3D](https://github.com/MaxwellGengYF/Unity-MPipeline)  
+* [Unity URP/SRP 渲染管线浅入深出](https://blog.csdn.net/qq_26292661/article/details/116234991)  
+* [OverdrawForURP](https://github.com/ina-amagami/OverdrawForURP)  
+* [srp shader build in batchmode](https://issuetracker.unity3d.com/issues/urp-shader-dot-renderqueue-does-not-return-the-correct-value-for-shaders-when-executing-unity-in-batchmode)  
+* [【博物纳新】HDRP Water & 云影](https://mp.weixin.qq.com/s/KS-LVX_WwPj0jVMOeyKPcA)  
+* [Scriptable Render Pipeline (SRP) Batcher](https://docs.unity3d.com/Manual/SRPBatcher.html)  
+* [Universal Render Pipeline overview](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@13.0/manual/index.html)  
+* [A Toon Shader in Unity Universal Render Pipeline](https://github.com/ChiliMilk/URP_Toon)  
+* [从内置转为通用渲染管线，看这个教程就够了](https://mp.weixin.qq.com/s/cee2swWWM_05lfuoQSnn8Q)  
+
+### PRB  
+* [pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation](https://github.com/kanition/pbrtbook)  
 
 ### 视频教程
 * [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744) 
@@ -89,4 +115,5 @@
 
 ### 电子书  
 * [Physically Based Rendering - 3rd Edition](http://www.pbr-book.org/3ed-2018/contents.html)  
+* [Games101笔记](https://www.cnblogs.com/somedayLi/category/1645593.html)  
 

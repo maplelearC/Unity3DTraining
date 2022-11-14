@@ -27,9 +27,9 @@
 >* [[Unity3D]清理material中无用的的property](https://blog.csdn.net/ngrandmarch/article/details/46828365)  
 >* [博主营地 | 万字长文，手把手带你入门Unity拓展编辑器](https://mp.weixin.qq.com/s/96N9NkQPFhgNBeEbV_S5wg)  
 >* [Unity编辑器拓展之三十：拓展UnityToolBar](https://www.jingfengji.tech/2020/04/05/unity-bian-ji-qi-tuo-zhan-zhi-san-shi-tuo-zhan-unitytoolbar/)  
->* [Unity Editor Toolbox](https://www.jingfengji.tech/2020/04/05/unity-bian-ji-qi-tuo-zhan-zhi-san-shi-tuo-zhan-unitytoolbar/)  
 >* [CustomToolbar](https://github.com/smkplus/CustomToolbar)  
 >* [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender)  
+>* [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox)   
 >* [【Unity游戏开发】升级Unity2019后，资源管线后处理采坑记录](https://www.cnblogs.com/msxh/p/13805008.html)  
 >* [Unity编辑器拓展基础知识总结](https://zhuanlan.zhihu.com/p/259283786)  
 >* [UnityEditorIcons](https://github.com/nukadelic/UnityEditorIcons)  
@@ -103,9 +103,25 @@
 >* [Unity开发笔记-Editor扩展用GraphView实现逻辑表达式（0）简介](https://www.cnblogs.com/terrynoya/p/14087453.html)  
 >* [IDE中 代码提示与跳转的原理是什么？](https://www.zhihu.com/question/320007348/answer/661270180)  
 >* [现在主流的IDE的查找定义和引用是如何实现的？](https://www.zhihu.com/question/65708406)  
+>* [CustomEditor CustomPropertyDrawer](https://blog.csdn.net/linuxheik/article/details/88870418)  
+>* [PropertyDrawer](https://docs.unity3d.com/cn/2020.2/ScriptReference/PropertyDrawer.html)  
+>* [Unity Duplicate Event](https://answers.unity.com/questions/1274030/unity-duplicate-event.html)  
+>* [Hierarchy-Window-Extensions](https://github.com/nomnomab/Hierarchy-Window-Extensions)  
+>* [AssetStudio工程导入VS各种报错解决](https://blog.csdn.net/u011779938/article/details/115298633)  
+>* [Unity代码设置ios的App Icon](https://zhuanlan.zhihu.com/p/436805895)  
+>* [ui-toolkit-manual-code-examples](https://github.com/Unity-Technologies/ui-toolkit-manual-code-examples)  
 
 ### MaxScript 3DSMAX插件开发  
 * [MaxScript 3DSMAX插件开发](./MaxScript)  
+* [MeshSyncDCCPlugins](https://github.com/Unity-Technologies/MeshSyncDCCPlugins)  
+
+### Maya插件开发  
+* [Python 编写Maya插件，从0到1（一）](https://zhuanlan.zhihu.com/p/79546139)  
+* [基于Python的Maya插件开发](https://www.cnblogs.com/meteoric_cry/p/15905357.html)  
+* [《Maya 插件开发》Python环境设置](https://zhuanlan.zhihu.com/p/372501230)  
+* [MAYA-PYTHON教程](https://zhuanlan.zhihu.com/p/354889664)   
+* [Maya API Reference](https://download.autodesk.com/us/maya/2009help/API/)  
+* [Maya Commands](https://help.autodesk.com/cloudhelp/2019/CHS/Maya-Tech-Docs/CommandsPython/)  
 
 ### 修改源码相关  
 * [使用Mono.Cecil实现IL代码注入](https://www.jianshu.com/p/a5276aadccdd?from=singlemessage)  

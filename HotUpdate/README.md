@@ -43,6 +43,10 @@
 * [AssetBundle异步加载被中断的问题](https://answer.uwa4d.com/question/5af3db530e95a527a7a81d31)  
 * [Unity增量更新BsDiff（也适用于整包的增量更新）](https://mp.weixin.qq.com/s/xnXH_ZjteIuFn2uL5fk9ow)  
 * [UE热更新：资源的二进制补丁方案](https://cloud.tencent.com/developer/article/1874827)  
+* [Unity资产管理与更新系统的一种实现方式](https://mp.weixin.qq.com/s/yaA5mG7jsZwQpD3yOKZuAA)  
+* [2020版本AssetBundle的结构分析](https://www.bilibili.com/read/cv15116475)  
+* [[U3D]StreamedBinaryRead::TransferSTLStyleArray崩溃分析](https://zhuanlan.zhihu.com/p/59394832)  
+* [Pak files - Virtual file system](https://simoncoenen.com/blog/programming/PakFiles)  
 
 #### Shader打包与变体收集  
 * [Shader变体收集与打包](https://zhuanlan.zhihu.com/p/68888831)  
@@ -68,3 +72,11 @@
 ### Lua热更新  
 * [lua_hotupdate](https://github.com/asqbtcupid/lua_hotupdate)  
 * [LuaRuntimeHotfix](https://github.com/756915370/LuaRuntimeHotfix)  
+
+### huatuo热更新  
+* [huatuo c#热更新](https://www.zhihu.com/column/c_1489549396035870720)  
+* [huatuo trial project](https://github.com/focus-creative-games/hybridclr_trial)  
+* [huatuo](https://github.com/focus-creative-games/hybridclr)  
+* [il2cpp version which support HUAUTO interpreter](https://github.com/pirunxi/il2cpp_huatuo)  
+* [深入剖析il2cpp及huatuo实现的技术专栏](https://github.com/focus-creative-games/inspect_hybridclr)  
+* [划时代的代码热更新方案huatuo源码流程解析](https://www.lfzxb.top/huatuo-source-analyze/)  
